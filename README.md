@@ -1,4 +1,5 @@
-# Cores em RGB
+# Cores em RGB         ![Badge](https://img.shields.io/badge/Status-Conclu%C3%ADdo-green)
+
 Simulação de cores desenvolvidos no bootcamp fullstack da IGTI
 
 ## <img src="https://img.icons8.com/ios-filled/20/000000/browser-window.png"/> Página 
@@ -26,6 +27,11 @@ Simulação de cores desenvolvidos no bootcamp fullstack da IGTI
 4. _Push_ (`git push origin feature/[nome]`)
 5. Crie um novo _Pull Request_
 
+## ![](https://img.icons8.com/windows/20/000000/regular-document.png) Licença
+
+Este projeto está sob a licença do MIT. Consulte [LICENSE](https://github.com/cicerorod/igti-fullstack-mod1-rgb/blob/master/LICENSE) para obter mais informações.
+
+
 ## ![](https://img.icons8.com/ios-glyphs/22/000000/code-file.png) Desenvolvedor
 
 <img src="https://avatars.githubusercontent.com/cicerorod" width=115>
@@ -36,4 +42,8 @@ Simulação de cores desenvolvidos no bootcamp fullstack da IGTI
 [![](https://img.icons8.com/material-rounded/29/000000/instagram-new.png)](https://www.instagram.com/cicero_rod/)
 [![](https://img.icons8.com/metro/26/000000/email.png)](mailto:cicerorod@gmail.com)
 
-<a href="https://icons8.com/">icon by Icons8</a>
+<p align="center">
+  <img src="https://img.icons8.com/wired/32/000000/icons8-new-logo.png" >
+  </br>
+  <a href="https://icons8.com/icon/">Icons by Icons8</a>
+</p>
